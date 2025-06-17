@@ -4,7 +4,7 @@ from app.schema import RatingRequest, RatingResponse
 from app.model_loader import load_model
 
 
-from utils import preprocess
+from app.utils import preprocess
 
 import logging
 
